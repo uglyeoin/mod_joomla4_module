@@ -15,7 +15,7 @@
 		<folder>languages</folder>
 		<folder>tmpl</folder>
 	</files>
-	<languages>
+	<languages folder="languages/en-GB">
 		<language tag="en-GB">en-GB.mod_joomla4_module.ini</language>
 		<language tag="en-GB">en-GB.mod_joomla4_module.sys.ini</language>
 	</languages>
