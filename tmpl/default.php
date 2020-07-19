@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    [PACKAGE_NAME]
+ * @package    mod_joomla4_module
  *
  * @author     [AUTHOR] <[AUTHOR_EMAIL]>
  * @copyright  [COPYRIGHT]

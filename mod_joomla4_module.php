@@ -13,4 +13,4 @@ defined('_JEXEC') or die;
 
 use Joomla\CMS\Helper\ModuleHelper;
 
-require ModuleHelper::getLayoutPath('mod_foo', $params->get('layout', 'default'));
+require ModuleHelper::getLayoutPath('mod_joomla4_module', $params->get('layout', 'default'));
