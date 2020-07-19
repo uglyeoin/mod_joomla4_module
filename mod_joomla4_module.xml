@@ -15,10 +15,17 @@
 		<folder>languages</folder>
 		<folder>tmpl</folder>
 	</files>
+
+	<!-- Update servers -->
+	<updateservers>
+		<server type="extension" priority="1" name="mod_joomla4_module">https://www.kindofuseful.com/downloads/mod_joomla4_module_updates.xml</server>
+	</updateservers>
+
 	<languages folder="languages/en-GB">
 		<language tag="en-GB">en-GB.mod_joomla4_module.ini</language>
 		<language tag="en-GB">en-GB.mod_joomla4_module.sys.ini</language>
 	</languages>
+
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
