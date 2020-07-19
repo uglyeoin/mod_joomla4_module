@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a55d68a5-8ef2-41b2-a594-c31ecd36b8a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subforms/cats.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" beforeDir="false" afterPath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mod_joomla4_module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mod_joomla4_module.xml" afterDir="false" />
