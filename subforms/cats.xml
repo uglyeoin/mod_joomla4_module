@@ -6,4 +6,11 @@
             label="MOD_JOOMLA4_MODULE_CAT_IMAGES_LABEL"
             description="MOD_JOOMLA4_MODULE_CAT_IMAGES_DESCRIPTION"
     />
+    <field
+            name="cat_name"
+            type="text"
+            label="MOD_JOOMLA4_MODULE_CAT_NAME_LABEL"
+            description="MOD_JOOMLA4_MODULE_CAT_NAME_DESCRIPTION"
+            size="10"
+    />
 </form>
