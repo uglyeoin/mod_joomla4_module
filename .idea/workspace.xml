@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a55d68a5-8ef2-41b2-a594-c31ecd36b8a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" beforeDir="false" afterPath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subforms/cats.xml" beforeDir="false" afterPath="$PROJECT_DIR$/subforms/cats.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a55d68a5-8ef2-41b2-a594-c31ecd36b8a3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
