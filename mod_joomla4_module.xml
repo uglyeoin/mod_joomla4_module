@@ -13,6 +13,7 @@
 	<files>
 		<filename module="mod_joomla4_module">mod_joomla4_module.php</filename>
 		<folder>languages</folder>
+		<folder>media</folder>
 		<folder>subforms</folder>
 		<folder>tmpl</folder>
 	</files>

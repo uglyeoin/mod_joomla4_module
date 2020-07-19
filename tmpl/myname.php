@@ -11,8 +11,9 @@
 // No direct access to this file
 defined('_JEXEC') or die;
 
-$name       = $params->get('myName');
-$salutation = $params->get('salutation');
+$name           = $params->get('myName');
+$salutation     = $params->get('salutation');
+$allOfTheCats   = $params->get('repeatable_fields');
 
 if($salutation == 0)
 {
@@ -22,8 +23,18 @@ else
 {
     $salutation = "Mrs";
 }
+
 ?>
 
 <div class="<?php echo $module->module; ?>">
-    Hello <?php echo $salutation . " " . $name; ?>
+    <p>Hello <?php echo $salutation . " " . $name; ?></p>
+    <p>Look at <?php echo $salutation . " " . $name; ?>'s beautiful cats</p>
+    <?php
+        foreach($allOfTheCats as $cat)
+        {
+
+            echo '<img src="' . $cat->cat_images . '" alt="cats">';
+        }
+    ?>
+
 </div>
