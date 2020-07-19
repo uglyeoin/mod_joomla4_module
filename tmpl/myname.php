@@ -11,6 +11,12 @@
 // No direct access to this file
 defined('_JEXEC') or die;
 
+use Joomla\CMS\Factory;
+$document = Factory::getDocument();
+
+$mediaUrl = 'media/' . $module->module;
+$document->addStyleSheet($mediaUrl . '/css/' . $moduleName . '.css', array('version' => 'auto'));
+
 $name           = $params->get('myName');
 $salutation     = $params->get('salutation');
 $allOfTheCats   = $params->get('repeatable_fields');
