@@ -13,9 +13,10 @@
 	<files>
 		<filename module="mod_joomla4_module">mod_joomla4_module.php</filename>
 		<folder>languages</folder>
+		<folder>media</folder>
 		<folder>tmpl</folder>
 	</files>
-	<languages>
+	<languages folder="language/en-GB">
 		<language tag="en-GB">en-GB.mod_joomla4_module.ini</language>
 		<language tag="en-GB">en-GB.mod_joomla4_module.sys.ini</language>
 	</languages>
