@@ -18,7 +18,7 @@
 		<folder>tmpl</folder>
 	</files>
 
-	<media destination="mod_joomla4_modules" folder="media">
+	<media destination="mod_joomla4_module" folder="media">
 		<folder>css</folder>
 		<folder>images</folder>
 	</media>
