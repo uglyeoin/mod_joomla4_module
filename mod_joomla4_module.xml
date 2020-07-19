@@ -20,7 +20,7 @@
 		<language tag="en-GB">en-GB.mod_joomla4_module.sys.ini</language>
 	</languages>
 	<config>
-		<fieldset name="params">
+		<fieldset name="basic">
 			<field
 					name="myName"
 					type="text"
