@@ -13,6 +13,15 @@ defined('_JEXEC') or die;
 
 $name       = $params->get('myName');
 $salutation = $params->get('salutation');
+
+if($salutation == 0)
+{
+    $salutation = "Mr";
+}
+else
+{
+    $salutation = "Mrs";
+}
 ?>
 
 <div class="<?php echo $module->module; ?>">

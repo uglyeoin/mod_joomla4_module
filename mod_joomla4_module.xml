@@ -20,36 +20,38 @@
 		<language tag="en-GB">en-GB.mod_joomla4_module.sys.ini</language>
 	</languages>
 	<config>
-		<fieldset name="basic">
-			<field
-					name="myName"
-					type="text"
-					default="Eoin"
-					label="MOD_JOOMLA4_MODULE_MYNAME_LABEL"
-					description="MOD_JOOMLA4_MODULE_MYNAME_DESCRIPTION"
-					size="10"
-			/>
-			<field
-					name="salutation"
-					type="list"
-					default=""
-					required="true"
-					label="Select an option"
-					description=""
-			>
-				<option value="">Please Select</option>
-				<option value="0">MOD_JOOMLA4_MODULE_SALUTATION_OPTION_MR</option>
-				<option value="1">MOD_JOOMLA4_MODULE_SALUTATION_OPTION_MRS</option>
-			</field>
-		</fieldset>
-		<fieldset name="advanced">
-			<field
-					name="layout"
-					type="modulelayout"
-					label="JFIELD_ALT_LAYOUT_LABEL"
-					description="JFIELD_ALT_MODULE_LAYOUT_DESC"
-					class="custom-select"
-			/>
-		</fieldset>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+						name="myName"
+						type="text"
+						default="Eoin"
+						label="MOD_JOOMLA4_MODULE_MYNAME_LABEL"
+						description="MOD_JOOMLA4_MODULE_MYNAME_DESCRIPTION"
+						size="10"
+				/>
+				<field
+						name="salutation"
+						type="list"
+						default=""
+						required="true"
+						label="Select an option"
+						description=""
+				>
+					<option value="">Please Select</option>
+					<option value="0">MOD_JOOMLA4_MODULE_SALUTATION_OPTION_MR</option>
+					<option value="1">MOD_JOOMLA4_MODULE_SALUTATION_OPTION_MRS</option>
+				</field>
+			</fieldset>
+			<fieldset name="advanced">
+				<field
+						name="layout"
+						type="modulelayout"
+						label="JFIELD_ALT_LAYOUT_LABEL"
+						description="JFIELD_ALT_MODULE_LAYOUT_DESC"
+						class="custom-select"
+				/>
+			</fieldset>
+		</fields>
 	</config>
 </extension>
