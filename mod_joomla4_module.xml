@@ -18,6 +18,11 @@
 		<folder>tmpl</folder>
 	</files>
 
+	<media destination="mod_joomla4_modules" folder="media">
+		<folder>css</folder>
+		<folder>images</folder>
+	</media>
+
 	<!-- Update servers -->
 	<updateservers>
 		<server type="extension" priority="1" name="mod_joomla4_module">https://www.kindofuseful.com/downloads/mod_joomla4_module_updates.xml</server>
