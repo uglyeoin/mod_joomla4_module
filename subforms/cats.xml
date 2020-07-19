@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field
+            name="cat_images"
+            type="media"
+            label="MOD_JOOMLA4_MODULE_CAT_IMAGES_LABEL"
+            description="MOD_JOOMLA4_MODULE_CAT_IMAGES_DESCRIPTION"
+    />
+</form>

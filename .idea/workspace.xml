@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a55d68a5-8ef2-41b2-a594-c31ecd36b8a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_joomla4_module_updates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subforms/cats.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" beforeDir="false" afterPath="$PROJECT_DIR$/languages/en-GB/en-GB.mod_joomla4_module.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mod_joomla4_module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mod_joomla4_module.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mod_accreditations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mod_koy_image_and_text" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,10 +61,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1050.92.1050.1640@0.0.1920.1040" timestamp="1595111137544" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1595167587642">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1595170007049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1050.92.1050.1640@0.0.1920.1040" timestamp="1595167587642" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1050.92.1050.1640@0.0.1920.1040" timestamp="1595170007049" />
     <state x="591" y="217" width="737" height="606" key="find.popup" timestamp="1595111051650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
