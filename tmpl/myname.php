@@ -15,7 +15,7 @@ use Joomla\CMS\Factory;
 $document = Factory::getDocument();
 
 $mediaUrl = 'media/' . $module->module;
-$document->addStyleSheet($mediaUrl . '/css/' . $moduleName . '.css', array('version' => 'auto'));
+$document->addStyleSheet($mediaUrl . '/css/' . $module->module . '.css', array('version' => 'auto'));
 
 $name           = $params->get('myName');
 $salutation     = $params->get('salutation');
