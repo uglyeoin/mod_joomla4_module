@@ -1,14 +1,16 @@
 <?php
 /**
- * @package     Joomla.Site
- * @subpackage  mod_joomla4_module
+ * @package    [PACKAGE_NAME]
  *
- * @copyright   Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.
- * @license     GNU General Public License version 2 or later; see LICENSE.txt
+ * @author     [AUTHOR] <[AUTHOR_EMAIL]>
+ * @copyright  [COPYRIGHT]
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ * @link       [AUTHOR_URL]
  */
 
+// No direct access to this file
 defined('_JEXEC') or die;
 
 use Joomla\CMS\Helper\ModuleHelper;
 
-require ModuleHelper::getLayoutPath('mod_joomla4_module', $params->get('layout', 'default'));
+require ModuleHelper::getLayoutPath('mod_foo', $params->get('layout', 'default'));
